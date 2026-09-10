@@ -93,8 +93,8 @@ print("Minecraft.exe".removesuffix(".exe"))
 -------------------------------------------------
 # Substituição e Formatação
 # .replace() -> Substitui Texto
-frase = "Eu gosto de ouvir Daniel Caesar"
-print(frase.replace("Daniel Caesar", "Malcolm Todd")) #Resultado: Eu gosto de ouvir Malcolm Todd
+frase = "Eu gosto de ouvir Djavan"
+print(frase.replace("Djavan", "Malcolm Todd")) #Resultado: Eu gosto de ouvir Malcolm Todd
 -----------------------------------------------------------------------------------------
 # .format() -> Insere valores em {}
 -------------------------------------------------
